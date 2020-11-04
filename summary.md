@@ -17,7 +17,7 @@
 # 교과목형
 ### 시간순서대로 링크를 걸어 배치하였습니다.
 
-// *  [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
+
 * [COMP217002/ 자바프로그래밍/ 2018학년도/1학기/ 권혜진 교수님](https://github.com/Seonggyu-Bae/Java-tutorial/tree/master)
 * [COME331003/ 자료구조/ 2018학년도/ 2학기/ 박대진 교수님](https://github.com/Seonggyu-Bae/Data-Structure)
 * [ELEC323002/ 마이크로프로세서/ 2019학년도/ 1학기/ 박대진 교수님](https://github.com/Seonggyu-Bae/MicroProcessor)
