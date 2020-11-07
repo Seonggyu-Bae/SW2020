@@ -24,3 +24,5 @@
 * [COME331003/ 자료구조/ 2018학년도/ 2학기/ 박대진 교수님](https://github.com/Seonggyu-Bae/Data-Structure)
 * [ELEC323002/ 마이크로프로세서/ 2019학년도/ 1학기/ 박대진 교수님](https://github.com/Seonggyu-Bae/MicroProcessor)
 * [COMP311004/ 논리회로설계/ 2019학년도/ 2학기/ 김찬용 교수님](https://github.com/Seonggyu-Bae/Logic_Circuit_Design)
+* [ITEC412001/ SoC 설계 및 프로그래밍/ 2020학년도/ 1학기/ 문병인 교수님](https://github.com/Seonggyu-Bae/SoC_Design_and_Programing)
+
